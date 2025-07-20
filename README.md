@@ -22,19 +22,9 @@ A Python-based terminal project to track live COVID-19 cases globally using publ
 📷 Screenshots
 ✅ Terminal Output:
 
-✅ Bar Graph Example:
+✅ Bar Graph 
 
-📁 Project Structure
-bash
-Copy
-Edit
-covid-tracker-project/
-│
-├── covid_tracker.py          # Main Python file
-├── screenshots/              # Folder containing screenshots for demo
-│   ├── terminal_output.png
-│   └── bar_graph.png
-└── README.md                 # Project Documentation
+
 🚀 How to Run Locally
 1️⃣ Clone the Repository
 bash
@@ -70,8 +60,6 @@ disease.sh - Open Disease Data API
 Abhimanyu Singh Fauzdar
 
 B.Tech AI/ML Student | Python | Building Projects in Public
-
-GitHub | LinkedIn | Twitter
 
 ⭐ Give this repo a star if you found it helpful!
 👉 More beginner-friendly and ML projects coming soon!
